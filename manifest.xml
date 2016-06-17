@@ -1,0 +1,20 @@
+<package>
+  <description brief="TRAC-IK is a faster, significantly more reliable drop-in replacement for">
+  KDL's pseudoinverse Jacobian solver.
+  </description>
+  <author>Rohit Menon/rohit.menon@dfki.de</author>
+  <license></license>
+  <url>http://https://bitbucket.org/traclabs/trac_ik/src/HEAD/trac_ik_lib/</url>
+  <logo>http://</logo>
+  <depend package="base/cmake" />
+  <!--
+   To add any dependencies use the depend tag
+  <depend package="dummy-dependency-0" />
+	...
+  <depend package="dummy-dependency-n-1" />
+  <depend package="dummy-dependency-n" />
+  -->
+  <depend package="base/types" />
+  <depend package="libnlopt-dev" />
+  <depend package="control/kdl_parser" />
+</package>
