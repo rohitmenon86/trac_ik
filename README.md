@@ -1,4 +1,4 @@
-trac_ik
+
 =============
 TRAC-IK is a faster, significantly more reliable drop-in replacement for
 
@@ -53,3 +53,5 @@ STRUCTURE
 	easily embedded include the external software directly here
 -- doc/
 	should contain the existing doxygen file: doxygen.conf
+
+=============
