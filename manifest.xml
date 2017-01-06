@@ -17,4 +17,5 @@
   <depend package="base/types" />
   <depend package="libnlopt-dev" />
   <depend package="control/kdl_parser" />
+  <depend package="boost" />                 
 </package>
